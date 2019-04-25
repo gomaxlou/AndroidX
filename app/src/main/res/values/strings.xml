@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidX</string>
+    <string name="storeData">store</string>
+    <string name="readData">read</string>
+</resources>

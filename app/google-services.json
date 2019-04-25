@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "523215158585",
+    "firebase_url": "https://firecast-app-gx.firebaseio.com",
+    "project_id": "firecast-app-gx",
+    "storage_bucket": "firecast-app-gx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523215158585:android:cc7b6097bbb6fce8",
+        "android_client_info": {
+          "package_name": "edu.gomax.androidx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523215158585-6m1lp8d0p9igbpgpr7bql5a65rkd27vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqmBBMkN-6-QtuoFjkwwuhMA9XtgzZUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523215158585-6m1lp8d0p9igbpgpr7bql5a65rkd27vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523215158585:android:ccb3761493869516",
+        "android_client_info": {
+          "package_name": "edu.gomax.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523215158585-6m1lp8d0p9igbpgpr7bql5a65rkd27vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqmBBMkN-6-QtuoFjkwwuhMA9XtgzZUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523215158585-6m1lp8d0p9igbpgpr7bql5a65rkd27vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
